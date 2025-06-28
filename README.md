@@ -71,7 +71,7 @@ Bengaluru, Hyderabad, and Mumbai are the top cities by revenue.
 A few styles (e.g., Dupatta, Saree, Bottoms) underperform in both quantity and revenue.
 
 ✅ Recommendations
-Focus more on Sets and Kurtas — they bring consistent revenue with lower return rates.
+Focus more on Sets and Kurtas, they bring consistent revenue with lower return rates.
 
 Investigate quality or sizing issues in Western Dresses to reduce returns.
 
@@ -81,3 +81,5 @@ Double down on top cities with targeted ads or regional campaigns.
 
 Introduce product-level feedback to reduce cancellation and return percentages.
 
+NOTE : THE FULL DATASET IS NOT INCLUDED DUE TO FILE SIZE.
+HERE IS A LINK TO IT[https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?utm_source=chatgpt.com&select=Sale+Report.csv]
